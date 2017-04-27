@@ -1,8 +1,7 @@
 body{
     background-image: url("../img/background.JPG");
     background-repeat: no-repeat;
-    font-family: 'Uncial Antiqua', cursive;
-    color: #ffffff;
+    color: #000000;
 }
 
 li {
@@ -18,7 +17,7 @@ li {
 .create-update-form {
     padding: 5px;
     margin: 5px;
-    background: aqua;
+    background: tan;
 }
 
 .form-group {
